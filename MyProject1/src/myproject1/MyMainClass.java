@@ -19,9 +19,7 @@ public class MyMainClass {
         System.out.print("Hello World");        
         System.out.println("Hello Java");        
         System.out.println("Java is fun");
-
-
-
     }
     
 }
+
